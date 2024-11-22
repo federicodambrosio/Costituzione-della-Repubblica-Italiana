@@ -275,7 +275,7 @@ Sono eleggibili a deputati tutti gli elettori che nel giorno delle elezioni hann
 La ripartizione dei seggi tra le circoscrizioni, fatto salvo il numero dei seggi assegnati alla circoscrizione Estero, si effettua dividendo il numero degli abitanti della Repubblica, quale risulta dall'ultimo censimento generale della popolazione, per trecentonovantadue)) e distribuendo i seggi in proporzione alla popolazione di ogni circoscrizione, sulla base dei quozienti interi e dei più alti resti. 
 
 ##### Art. 57
-Il Senato della Repubblica è eletto a base regionale, salvi i seggi assegnati alla circoscrizione Estero. 
+Il Senato della Repubblica è eletto a base regionale, salvi i seggi assegnati alla circoscrizione Estero e salvo il premio su base nazionale previsto dall'articolo 92. 
 Il numero dei senatori elettivi è di duecento, quattro dei quali eletti nella circoscrizione Estero. 
 Nessuna Regione o Provincia autonoma può avere un numero di senatori inferiore a tre; il Molise ne ha due, la Valle d'Aosta uno. 
 La ripartizione dei seggi tra le Regioni o le Province autonome, previa applicazione delle disposizioni del precedente comma, si effettua in proporzione alla loro popolazione, quale risulta dall'ultimo censimento generale, sulla base dei quozienti interi e dei più alti resti. 
@@ -286,7 +286,6 @@ Sono eleggibili a senatori gli elettori che hanno compiuto il quarantesimo anno.
 
 ##### Art. 59
 È senatore di diritto e a vita, salvo rinunzia, chi è stato Presidente della Repubblica. 
-Il Presidente della Repubblica può nominare senatori a vita cittadini che hanno illustrato la Patria per altissimi meriti nel campo sociale, scientifico, artistico e letterario. Il numero complessivo dei senatori in carica nominati dal Presidente della Repubblica non può in alcun caso essere superiore a cinque)). 
 
 ##### Art. 60
 La Camera dei deputati e il Senato della Repubblica sono eletti per cinque anni.
@@ -396,7 +395,7 @@ A tale scopo nomina fra i propri componenti una commissione formata in modo da r
 ##### Art. 83
 Il Presidente della Repubblica è eletto dal Parlamento in seduta comune dei suoi membri.
 All'elezione partecipano tre delegati per ogni Regione eletti dal Consiglio regionale in modo che sia assicurata la rappresentanza delle minoranze. La Valle d'Aosta ha un solo delegato.
-L'elezione del Presidente della Repubblica ha luogo per scrutinio segreto a maggioranza di due terzi della assemblea. Dopo il terzo scrutinio è sufficiente la maggioranza assoluta.
+L'elezione del Presidente della Repubblica ha luogo per scrutinio segreto a maggioranza di due terzi della assemblea. Dopo il sesto scrutinio è sufficiente la maggioranza assoluta.
 
 ##### Art. 84
 Può essere eletto Presidente della Repubblica ogni cittadino che abbia compiuto cinquanta anni d'età e goda dei diritti civili e politici.
@@ -428,11 +427,11 @@ Può concedere grazia e commutare le pene.
 Conferisce le onorificenze della Repubblica.
 
 ##### Art. 88
-Il Presidente della Repubblica può, sentiti i loro Presidenti, sciogliere le Camere o anche una sola di esse.
-Non può esercitare tale facoltà negli ultimi sei mesi del suo mandato, salvo che essi coincidano in tutto o in parte con gli ultimi sei mesi della legislatura.
+Il Presidente della Repubblica può, sentiti i loro Presidenti, sciogliere le Camere.
+Non può esercitare tale facoltà negli ultimi sei mesi del suo mandato, salvo che salvo che lo scioglimento costituisca atto dovuto.
 
 ##### Art. 89
-Nessun atto del Presidente della Repubblica è valido se non è controfirmato dai ministri proponenti, che ne assumono la responsabilità.
+Gli atti del Presidente della Repubblica sono controfirmati dai ministri proponenti, che ne assumono la responsabilità. Non sono controfirmati la nomina del Presidente del Consiglio dei ministri, la nomina dei giudici della Corte costituzionale, la concessione della grazia e la commutazione delle pene, il decreto di indizione delle elezioni e dei referendum, i messaggi alle Camere e il rinvio delle leggi.
 Gli atti che hanno valore legislativo e gli altri indicati dalla legge sono controfirmati anche dal Presidente del Consiglio dei ministri.
 
 ##### Art. 90
@@ -448,7 +447,10 @@ Il Presidente della Repubblica, prima di assumere le sue funzioni, presta giuram
 
 ##### Art. 92
 Il Governo della Repubblica è composto del Presidente del Consiglio e dei ministri, che costituiscono insieme il Consiglio dei ministri.
-Il Presidente della Repubblica nomina il Presidente del Consiglio dei ministri e, su proposta di questo, i ministri.
+Il Presidente del Consiglio è eletto a suffragio universale e diretto per cinque anni, per non più di due legislature consecutive, elevate a tre qualora nelle precedenti abbia ricoperto l'incarico per un periodo inferiore a sette anni e sei mesi. Le elezioni delle Camere e del Presidente del Consiglio hanno luogo contestualmente.
+La legge disciplina il sistema per l'elezione delle Camere e del Presidente del Consiglio, assegnando un premio su base nazionale che garantisca una maggioranza dei seggi in ciascuna delle Camere alle liste e ai candidati collegati al Presidente del Consiglio, nel rispetto del principio di rappresentatività e di tutela delle minoranze linguistiche.
+Il Presidente del Consiglio è eletto nella Camera nella quale ha presentato la candidatura.
+Il Presidente della Repubblica conferisce al Presidente del Consiglio eletto l'incarico di formare il Governo; nomina e revoca, su proposta di questo, i ministri.
 
 ##### Art. 93
 Il Presidente del Consiglio dei ministri e i ministri, prima di assumere le funzioni, prestano giuramento nelle mani del Presidente della Repubblica.
@@ -456,9 +458,12 @@ Il Presidente del Consiglio dei ministri e i ministri, prima di assumere le funz
 ##### Art. 94
 Il Governo deve avere la fiducia delle due Camere.
 Ciascuna Camera accorda o revoca la fiducia mediante mozione motivata e votata per appello nominale.
-Entro dieci giorni dalla sua formazione il Governo si presenta alle Camere per ottenerne la fiducia.
+Entro dieci giorni dalla sua formazione il Governo si presenta alle Camere per ottenerne la fiducia. Nel caso in cui non sia approvata la mozione di fiducia al Governo presieduto dal Presidente eletto, il Presidente della Repubblica rinnova l'incarico al Presidente eletto di formare il Governo. Qualora anche in quest'ultimo caso il Governo non ottenga la fiducia delle Camere, il Presidente della Repubblica procede allo scioglimento delle Camere.
 Il voto contrario di una o d'entrambe le Camere su una proposta del Governo non importa obbligo di dimissioni.
 La mozione di sfiducia deve essere firmata da almeno un decimo dei componenti della Camera e non può essere messa in discussione prima di tre giorni dalla sua presentazione.
+In caso di revoca della fiducia mediante mozione motivata, il Presidente del Consiglio eletto rassegna le dimissioni e il Presidente della Repubblica scioglie le Camere.
+Negli altri casi di dimissioni, il Presidente del Consiglio eletto, entro sette giorni e previa informativa parlamentare, ha facoltà di chiedere lo scioglimento delle Camere al Presidente della Repubblica, che lo dispone. Qualora il Presidente del Consiglio eletto non eserciti tale facoltà, il Presidente della Repubblica conferisce l'incarico di formare il Governo, per una sola volta nel corso della legislatura, al Presidente del Consiglio dimissionario o a un parlamentare eletto in collegamento con il Presidente del Consiglio.
+Nei casi di decadenza, impedimento permanente o morte del Presidente del Consiglio eletto, il Presidente della Repubblica conferisce l'incarico di formare il Governo, per una sola volta nel corso della legislatura, a un parlamentare eletto in collegamento con il Presidente del Consiglio.
 
 ##### Art. 95
 Il Presidente del Consiglio dei ministri dirige la politica generale del Governo e ne è responsabile. Mantiene l'unità di indirizzo politico ed amministrativo, promuovendo e coordinando l'attività dei ministri.
